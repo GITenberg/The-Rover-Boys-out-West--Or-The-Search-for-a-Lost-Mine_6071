@@ -1,0 +1,31 @@
+_repo: The-Rover-Boys-out-West--Or-The-Search-for-a-Lost-Mine_6071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mining claims -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- GITenberg
+title: The Rover Boys out West; Or, The Search for a Lost Mine
+url: http://www.gutenberg.org/ebooks/6071
